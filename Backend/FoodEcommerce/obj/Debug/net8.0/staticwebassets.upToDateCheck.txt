@@ -1,0 +1,13 @@
+wwwroot\Images\ButterChicken.jpg
+wwwroot\Images\Chicken 65.jpg
+wwwroot\Images\Chicken Briyani.jpg
+wwwroot\Images\Chicken.jpg
+wwwroot\Images\Chicken65 Briyani.jpg
+wwwroot\Images\Dosa.jpg
+wwwroot\Images\Gobi 65.jpg
+wwwroot\Images\Idly.jpg
+wwwroot\Images\Pongal.jpg
+wwwroot\Images\poori.jpg
+wwwroot\Images\sambar Rice.jpg
+wwwroot\Images\vada.jpg
+wwwroot\Images\Veg meals.jpg
