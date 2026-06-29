@@ -173,7 +173,15 @@ function Cart() {
 
                  <button
     className="btn btn-success"
-    onClick={() => navigate("/order")}
+      onClick={() => {
+        const confirmOrder = window.confirm(
+            "Are you sure you want to place this order?"
+        );
+
+        if (confirmOrder) {
+            navigate("/order");
+        }
+    }}
 >
     Proceed To Order
 </button>

@@ -1,0 +1,19 @@
+
+# React
+Frontend/Food-Commerce/node_modules/
+Frontend/Food-Commerce/dist/
+
+# .NET
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+**/.vs/
+
+# User files
+*.user
+*.suo
+
+# Logs
+*.log

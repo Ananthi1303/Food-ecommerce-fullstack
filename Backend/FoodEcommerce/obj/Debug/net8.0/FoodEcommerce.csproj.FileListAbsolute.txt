@@ -280,3 +280,4 @@ C:\Users\Hp\source\FullStackProjects\FoodEcommerceFullStack\Backend\FoodEcommerc
 C:\Users\Hp\source\FullStackProjects\FoodEcommerceFullStack\Backend\FoodEcommerce\obj\Debug\net8.0\FoodEcommerce.pdb
 C:\Users\Hp\source\FullStackProjects\FoodEcommerceFullStack\Backend\FoodEcommerce\obj\Debug\net8.0\FoodEcommerce.genruntimeconfig.cache
 C:\Users\Hp\source\FullStackProjects\FoodEcommerceFullStack\Backend\FoodEcommerce\obj\Debug\net8.0\ref\FoodEcommerce.dll
+C:\Users\Hp\source\FullStackProjects\FoodEcommerceFullStack\Backend\FoodEcommerce\obj\Debug\net8.0\FoodEcommerce.sourcelink.json

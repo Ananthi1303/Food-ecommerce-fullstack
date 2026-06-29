@@ -85,7 +85,12 @@ function Order() {
 
             <button
                 className="btn btn-success mt-3"
-                onClick={confirmOrder}
+                onClick={()=>{
+
+                      alert("Your order has been confirmed. Proceeding to Payment...");
+
+                      navigate("/payment");
+                }}
             >
                 Confirm Order
             </button>

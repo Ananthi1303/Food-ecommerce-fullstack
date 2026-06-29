@@ -8,6 +8,7 @@ import Cart from "./pages/Cart";
 import Logout from "./pages/Logout";
 import Navbar from "./Pages/Navbar";
 import Order from "./Pages/Order";
+import Payment from "./pages/Payment";
 import OrderHistory from "./Pages/OrderHistory";
 
 function App() {
@@ -35,6 +36,8 @@ function App() {
        <Route path="/cart" element={<Cart />} />
 
        <Route path="/order" element={<Order/>} />
+
+       <Route path="/payment" element={<Payment />} />
 
        <Route path="/orderhistory" element={<OrderHistory />} />
 
